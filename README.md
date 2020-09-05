@@ -51,23 +51,13 @@ Django Admin默认界面设计语言存在着的一些不足，比如色彩单�
 ## QQ群
 + QQ群号:786576510
 
-<img src='https://github.com/newpanjing/simpleui/raw/master/images/QQ%E7%BE%A4.jpg' width='200'>
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=UCLYsbh4dQ1uTaNv47PVf5ZFA9jnD-sE&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Simple Life" title="Simple Life"></a>
 
 
 ## 文档
 文档详细的描述了安装使用方法，以及各种配置项的说明，请点击以下链接查阅。
- 
- ### 重要的事情说3遍：
+[simpleui文档教程使用说明](https://simpleui.88cto.com/docs/simpleui) 
 
-👇👇👇👇👇👇👇👇👇👇👇
-
-👉 1.[simpleui文档教程使用说明](https://simpleui.88cto.com/docs/simpleui) 👈
-
-👉 2.[simpleui文档教程使用说明](https://simpleui.88cto.com/docs/simpleui)👈
-
-👉  3.[simpleui文档教程使用说明](https://simpleui.88cto.com/docs/simpleui)👈
-
-👆👆👆👆👆👆👆👆👆👆👆
 
 
 
